@@ -1,0 +1,13 @@
+img {
+    min-width: 700px;
+    max-width: 1000px;
+    width: 100%;
+}
+
+h2 {
+    min-width: 700px;
+    max-width: 1000px;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+}
